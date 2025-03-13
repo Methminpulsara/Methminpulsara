@@ -1,28 +1,43 @@
-### Hi there, I'm a Software Development Student! 👋
+# Hello, I'm Methmin Pulsara 👋
 
-I'm passionate about coding and currently learning **Java, JavaScript, HTML, CSS, Spring, Angular, Node.js, and React**. I'm always exploring new technologies and improving my skills!
+## 💻 Aspiring Software Developer
+
+I'm currently a software development student passionate about building web applications and learning new technologies.
+
+## 🚀 My Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+## 🌱 I'm currently learning...
+
+- Advanced JavaScript concepts
+- Building full-stack applications
+- UI/UX design principles
+- Software architecture patterns
+
+## 📫 How to reach me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methmin-pulsara/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](methminpulsara10@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+## 🏆 Projects
+
+Coming soon!
 
 ---
 
-### 🛠️ **Technologies & Tools I Work With:**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,angular,nodejs,react" />
-</div>
-
----
-
-### 📊 **GitHub Stats:**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MethminPulsara&show_icons=true&theme=radical" />
-</div>
-
----
-
-### 🌍 **Connect With Me:**
-
-  - **GitHub:** [Methmin Pulsara](https://github.com/MethmminPulsara)
-- **LinkedIn:** [Methmin Pulsara](https://www.linkedin.com/in/methmin-pulsara-505b37332/)
-
-Let's build something amazing together! 🚀
+⭐️ From Methmin(https://github.com/yourusername)
