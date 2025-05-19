@@ -47,20 +47,13 @@
 <div align="center">
   <!-- Remove the GitHub stats cards and replace with custom project cards -->
   <a href="[https://github.com/Methminpulsara](https://github.com/Methminpulsara/skill-match--Frontend)" style="text-decoration: none;">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Methminpulsara&repo=replace-with-real-repo&theme=tokyonight&hide_border=true" width="49%" alt="Project 1" />
+ 
   </a>
   <a href="[https://github.com/Methminpulsara](https://github.com/Methminpulsara/skill-match-Backend)" style="text-decoration: none;">
-    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Methminpulsara&repo=replace-with-real-repo-2&theme=tokyonight&hide_border=true" width="49%" alt="Project 2" />
+  
   </a>
 </div>
-<div align="center">
-  <!-- Note about replacing repo names -->
-  <i>Note: Replace "replace-with-real-repo" with your actual repository names</i>
-</div>
-<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">⚡ GitHub Activity</div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Methminpulsara&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
-</div>
+
 <div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Methminpulsara&style=flat-square&color=blue" alt="Profile views" />
 </div>
