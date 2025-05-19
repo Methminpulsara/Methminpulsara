@@ -16,45 +16,40 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Methminpulsara&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
 </div>
-<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">💻 Tech Stack</div>
+<div align="center" style="margin-top: 50px; margin-bottom: 20px; font-weight: 700;">💻 Tech Stack</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  width="55" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" width="55" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" width="55" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" width="55" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" width="55" />
+   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" />
+    <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
+
   <br/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  width="55" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" width="55" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
-</div>
-<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">🌱 Currently Learning</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" width="55" />
   <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="daisyui logo" width="55" />
+  
+
+</div>
+<div align="center" style="margin-top:50px; margin-bottom: 20px; font-weight: 700;">🌱 Currently Learning</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="docker logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" width="55" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
 </div>
 <div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">📌 Featured Projects</div>
 <div align="center">
   <!-- Remove the GitHub stats cards and replace with custom project cards -->
-  <a href="https://github.com/Methminpulsara" style="text-decoration: none;">
+  <a href="[https://github.com/Methminpulsara](https://github.com/Methminpulsara/skill-match--Frontend)" style="text-decoration: none;">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Methminpulsara&repo=replace-with-real-repo&theme=tokyonight&hide_border=true" width="49%" alt="Project 1" />
   </a>
-  <a href="https://github.com/Methminpulsara" style="text-decoration: none;">
+  <a href="[https://github.com/Methminpulsara](https://github.com/Methminpulsara/skill-match-Backend)" style="text-decoration: none;">
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Methminpulsara&repo=replace-with-real-repo-2&theme=tokyonight&hide_border=true" width="49%" alt="Project 2" />
   </a>
 </div>
