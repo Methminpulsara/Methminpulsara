@@ -46,16 +46,8 @@
 <div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">📌 Featured Projects</div>
 <div align="center">
   <!-- Remove the GitHub stats cards and replace with custom project cards -->
-  <a href="[https://github.com/Methminpulsara](https://github.com/Methminpulsara/skill-match--Frontend)" style="text-decoration: none;">
- 
-  </a>
-  <a href="[https://github.com/Methminpulsara](https://github.com/Methminpulsara/skill-match-Backend)" style="text-decoration: none;">
   
-  </a>
-</div>
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=Methminpulsara&style=flat-square&color=blue" alt="Profile views" />
-</div>
+
 
 <div align="center" style="margin-top: 15px; margin-bottom: 15px;">⭐️ From <a href="https://github.com/Methminpulsara">Methmin</a></div>
