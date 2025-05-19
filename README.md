@@ -1,36 +1,59 @@
-# Hello, I'm Methmin Pulsara 👋
-![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+<h1 align="center"> < Hello, Dev World! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="35" height="35" /> /> </h1>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Aspiring Software Developer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> Student</h3>
 
-## 💻 Aspiring Software Developer
+<div align="center">
 
-I'm currently a software development student passionate about building web applications and learning new technologies.
+[![about_me](https://img.shields.io/badge/about.me-WebSite-white)](#)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-WebSite-orange?style=flat)](#)&nbsp;
 
-## 🚀 My Tech Stack
+</div>
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<br>
+<div align="center" width="100">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Methminpulsara&theme=shadow_green&hide_border=false" />
+</div>
+<br>
+<div align="center">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+ <img src="https://github-readme-stats.vercel.app/api?username=Methminpulsara&hide_border=false&include_all_commits=true&count_private=true&theme=shadow_green" height="180" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Methminpulsara&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false" height="180" alt="languages graph"/>
+</div>
+</div>
+<br>
+<br>
 
-## 🌱 I'm currently learning...
+<div align="center">
 
-- Advanced JavaScript concepts
-- Building full-stack applications
-- UI/UX design principles
-- Software architecture patterns
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" width="55" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
 
-## 📫 How to reach me:
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/methmin-pulsara/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](methminpulsara10@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+<br>
+<br>
 
+<div align="center">
+  <h3>📫 How to reach me:</h3>
+  <a href="mailto:methminpulsara10@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/methmin-pulsara/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 ---
 
-⭐️ From Methmin(https://github.com/Methminpulsara)
-
+⭐️ From [Methmin](https://github.com/Methminpulsara)
