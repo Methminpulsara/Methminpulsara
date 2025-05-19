@@ -8,7 +8,7 @@
   <a href="mailto:methminpulsara10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/methmin-pulsara/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-<div align="center">📊 GitHub Stats</div>
+<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">📊 GitHub Stats</div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Methminpulsara&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Methminpulsara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Methminpulsara&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
 </div>
-<div align="center">💻 Tech Stack</div>
+<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">💻 Tech Stack</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  width="55" />
@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
 </div>
-<div align="center">🌱 Currently Learning</div>
+<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">🌱 Currently Learning</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" width="55" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo" width="55" />
@@ -48,21 +48,26 @@
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" width="55" />
   <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="daisyui logo" width="55" />
 </div>
-<div align="center">📌 Featured Projects</div>
+<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">📌 Featured Projects</div>
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Methminpulsara&repo=YOUR_REPO_NAME_1&theme=tokyonight&hide_border=true" width="49%" />
+  <!-- Remove the GitHub stats cards and replace with custom project cards -->
+  <a href="https://github.com/Methminpulsara" style="text-decoration: none;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Methminpulsara&repo=replace-with-real-repo&theme=tokyonight&hide_border=true" width="49%" alt="Project 1" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Methminpulsara&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/Methminpulsara" style="text-decoration: none;">
+    <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Methminpulsara&repo=replace-with-real-repo-2&theme=tokyonight&hide_border=true" width="49%" alt="Project 2" />
   </a>
 </div>
-<div align="center">⚡ GitHub Activity</div>
+<div align="center">
+  <!-- Note about replacing repo names -->
+  <i>Note: Replace "replace-with-real-repo" with your actual repository names</i>
+</div>
+<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">⚡ GitHub Activity</div>
 <div align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Methminpulsara&theme=tokyo-night&hide_border=true" width="95%" alt="Activity Graph" />
 </div>
-<div align="center">
+<div align="center" style="margin-top: 20px;">
   <img src="https://komarev.com/ghpvc/?username=Methminpulsara&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
-<div align="center">⭐️ From <a href="https://github.com/Methminpulsara">Methmin</a></div>
+<div align="center" style="margin-top: 15px; margin-bottom: 15px;">⭐️ From <a href="https://github.com/Methminpulsara">Methmin</a></div>
