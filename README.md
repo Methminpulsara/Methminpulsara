@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Methminpulsara&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="49%" />
 </div>
-<div align="center" style="margin-top: 50px; margin-bottom: 20px; font-weight: 700;">💻 Tech Stack</div>
+<div align="center" style="margin-top: 70px; margin-bottom: 50px; font-weight: 700;">💻 Tech Stack</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" width="55" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" width="55" />
@@ -37,13 +37,16 @@
   
 
 </div>
-<div align="center" style="margin-top:50px; margin-bottom: 20px; font-weight: 700;">🌱 Currently Learning</div>
+<div align="center" style="margin-top:50px; margin-bottom: 50px; font-weight: 700;">🌱 Currently Learning</div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="docker logo" width="55" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" width="55" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
+        <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt=""  width="55" />
+
+  
 </div>
-<div align="center" style="margin-top: 30px; margin-bottom: 20px; font-weight: 700;">📌 Featured Projects</div>
+
 <div align="center">
   <!-- Remove the GitHub stats cards and replace with custom project cards -->
   
