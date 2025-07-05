@@ -28,9 +28,6 @@
 
   <br/>
 
-You said:
-
-
 
 
 <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" />
@@ -42,6 +39,8 @@ You said:
 <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" /> 
 
 
+<br>
+</br>
 
 </div>
 <div align="center" style="margin-top:50px; margin-bottom: 50px; font-weight: 700;">🌱 Currently Learning</div>
