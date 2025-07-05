@@ -33,9 +33,15 @@ You said:
 
 
 
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" width="55" /> 
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" /> 
+<img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
+<img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" /> 
+<img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" width="55" />
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" /> 
 
-<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" width="55" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" /> <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="daisyui logo" width="55" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="express logo" width="55" />
-  
+
 
 </div>
 <div align="center" style="margin-top:50px; margin-bottom: 50px; font-weight: 700;">🌱 Currently Learning</div>
@@ -43,7 +49,6 @@ You said:
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="docker logo" width="55" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo" width="55" />
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  width="55" />
-        <img src="https://skillicons.dev/icons?i=electronjs" height="40" alt=""  width="55" />
 
   
 </div>
