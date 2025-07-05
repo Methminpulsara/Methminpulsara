@@ -27,22 +27,14 @@
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" width="55" />
 
   <br/>
-[  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" />
-  <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="daisyui logo" width="55" />
-](https://skillicons.dev/icons?i=angular
-https://skillicons.dev/icons?i=bootstrap
-https://skillicons.dev/icons?i=tailwind
-https://skillicons.dev/icons?i=git
-https://skillicons.dev/icons?i=github
-https://skillicons.dev/icons?i=figma
-https://skillicons.dev/icons?i=daisyui
-https://skillicons.dev/icons?i=express
-)
+
+You said:
+
+
+
+
+
+<img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo" width="55" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" width="55" /> <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" width="55" /> <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" width="55" /> <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" width="55" /> <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" width="55" /> <img src="https://skillicons.dev/icons?i=daisyui" height="40" alt="daisyui logo" width="55" /> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="express logo" width="55" />
   
 
 </div>
