@@ -1,15 +1,8 @@
 <div align="center">
 
-```bash
-guest@portfolio:~$ whoami
-Methmin Pulsara
+<img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?title=bash%20%E2%80%94%20methmin%40portfolio&prompt=guest%40portfolio%3A~%24&theme=dracula&width=900&lines=whoami:Methmin%20Pulsara;cat%20role.txt:Full-Stack%20Engineer%20%7C%20CS%20Undergraduate%20%40%20Kingston%20University;cat%20focus.txt:Building%20AI-powered%20apps%20with%20LangChain%2C%20LangGraph%20%26%20Ollama%20%F0%9F%A4%96" alt="Terminal Bio" width="100%" />
 
-guest@portfolio:~$ cat role.txt
-Full-Stack Engineer | Computer Science Undergraduate @ Kingston University
-
-guest@portfolio:~$ cat focus.txt
-Building AI-powered apps with LangChain, LangGraph & Ollama 🤖
-```
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=550&lines=Full-Stack+Developer+%F0%9F%92%BB;LangChain+%26+LLM+Enthusiast+%F0%9F%A6%9C;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -114,9 +107,9 @@ Building AI-powered apps with LangChain, LangGraph & Ollama 🤖
 
 <div align="center">
 
-```bash
-guest@portfolio:~$ echo "Thanks for stopping by — let's connect 👋"
-```
+<img src="https://readme-stats-theta-sepia.vercel.app/api/terminal?title=bash%20%E2%80%94%20goodbye&prompt=guest%40portfolio%3A~%24&theme=dracula&width=700&lines=cat%20goodbye.txt:Thanks%20for%20stopping%20by%20%E2%80%94%20let%27s%20connect%20%F0%9F%91%8B" alt="Goodbye Terminal" width="100%" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Methminpulsara&color=BD93F9&style=flat-square&label=Profile+Views" />
 
