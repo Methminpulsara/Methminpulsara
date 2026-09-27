@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Gradient Header with Glass Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Methmin%20Pulsara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Intern%20Software%20Engineer%20@%20Infora%20Tech&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Methmin%20Pulsara&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20CS%20Undergraduate%20%40%20Kingston%20University&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Cloud+Architecture+%E2%98%81%EF%B8%8F;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=550&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+with+LangChain+%26+LLMs+%F0%9F%A6%9C;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,6 @@
 
 <br/><br/>
 
-<!-- About Me Card with Glass Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
 
 </div>
@@ -32,21 +31,20 @@
 
 ```typescript
 const methmin = {
-    title: "Intern Software Engineer",
-    company: "Infora Tech",
-    workMode: "Remote 🌍",
+    role: "Full-Stack Engineer",
+    education: "BSc (Hons) Computer Science (SE) @ Kingston University 🎓",
+    pastExperience: "Software Engineer Intern @ Infora Tech 🏆 Best Intern of the Month",
     location: "Sri Lanka 🇱🇰",
-    code: ["Java", "JavaScript", "TypeScript", "Python", "PHP"],
+    languages_spoken: ["English", "Sinhala"],
+    code: ["Java", "Python", "JavaScript", "TypeScript"],
     technologies: {
-        frontend: ["React", "Angular", "Next.js", "Tailwind"],
-        backend: ["Node.js", "Spring Boot", "Laravel", "NestJS"],
-        ai_ml: ["LangChain", "LangGraph", "LangSmith", "OpenAI", "Ollama"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL", "VectorDB"],
-        cloud: ["AWS", "Firebase", "Vercel"],
-        tools: ["Docker", "Git", "Figma", "Postman"]
+        frontend: ["React", "Angular", "Next.js", "Tailwind CSS", "Material UI"],
+        backend: ["Spring Boot", "FastAPI", "Express.js", "Node.js"],
+        ai_ml: ["LangChain", "LangGraph", "OpenAI API", "Ollama"],
+        databases: ["MongoDB", "MySQL"],
+        tools: ["Docker", "Selenium", "Git", "GitHub", "GitLab"]
     },
-    architecture: ["Microservices", "Cloud-Native", "Event-Driven"],
-    currentFocus: "Building AI-powered applications with LangChain 🤖"
+    currentFocus: "Building AI-powered applications with LangChain & LLMs 🤖"
 };
 ```
 
@@ -58,49 +56,122 @@ const methmin = {
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
 
-<!-- Compact Skills Grid -->
 <table>
 <tr>
 <td align="center" width="25%">
 <h3>💬 Languages</h3>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,php,html,css&perline=4" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css&perline=3" />
 </td>
 <td align="center" width="25%">
 <h3>🎨 Frontend</h3>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap,materialui,vite&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,materialui,vite&perline=3" />
 </td>
 <td align="center" width="25%">
 <h3>⚙️ Backend</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,laravel,nestjs&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi&perline=2" />
 </td>
 <td align="center" width="25%">
 <h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis&perline=3" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2" />
 </td>
 </tr>
 <tr>
 <td align="center" width="25%">
-<h3>☁️ Cloud & DevOps</h3>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,vercel,terraform&perline=3" />
+<h3>🛠️ Tools & Testing</h3>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,postman,figma,vscode,idea&perline=4" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
 </td>
-<td align="center" width="25%">
-<h3>🛠️ Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea&perline=3" />
-</td>
-<td align="center" colspan="2">
+<td align="center" colspan="3">
 <h3>🤖 AI & ML Tools</h3>
 <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" />
 <br/><br/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=00D9FF" />
 <img src="https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=graphql&logoColor=E10098" />
-<img src="https://img.shields.io/badge/LangSmith-2C2C2C?style=for-the-badge&logo=databricks&logoColor=FF3621" />
 <br/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/VectorDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" />
 </td>
 </tr>
 </table>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🚕 FixIt — Real-Time Roadside Assistance Platform**
+Geospatial platform connecting drivers with nearby verified mechanics, with live location tracking and RBAC across 4 user roles.
+<br/>
+`React (Vite)` `Express.js` `MongoDB` `Socket.IO` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+**📊 AskTax — Client Collaboration Project**
+Client-facing web app for an Australian client, with real-time comment systems, multi-level reply threads, and an admin content module.
+<br/>
+`Spring Boot` `Angular` `MySQL` `REST APIs`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎥 YouTube Video Analyzer**
+AI tool that extracts transcripts, topics, and summaries — async FastAPI backend cut processing time by 40% using LangChain + Ollama (Llama 3.2).
+<br/>
+`FastAPI` `LangChain` `Ollama` `Sentence-Transformers`
+
+</td>
+<td width="50%" valign="top">
+
+**💹 AI Crypto Analysis Agent**
+LLM-driven agent comparing cryptocurrencies with live CoinGecko data, memory-aware chat, and sentiment analysis — reports in under 50 seconds.
+<br/>
+`FastAPI` `LangChain` `Ollama` `CoinGecko API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**👥 SkillMatch — Employee Skill Manager**
+Platform to track employee skills and training, helping HR teams identify internal talent through structured, data-driven insights.
+<br/>
+`Angular` `Spring Boot` `MySQL` `Hibernate`
+
+</td>
+<td width="50%" valign="top">
+
+*More projects on my* [**GitHub**](https://github.com/Methminpulsara) *and* [**Portfolio**](https://portfolio-methminpulsara.vercel.app/) 🔗
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+
+<br/>
+
+## 🎓 Education & Certifications
+
+- 🏫 **BSc (Hons) Computer Science (Software Engineering)** — Kingston University, UK *(Undergraduate, since Sep 2026)*
+- 📜 **Advanced AI & Software Engineering** — C Clarke Campus *(2025)*
+- 💻 **iCET Certified Developer** — Institute of Computer Engineering Technology *(2024–2025)*
+
+## 💼 Experience
+
+- **Software Engineer Intern (Web Development)** @ Infora Tech *(Jan – Jun 2026)*
+  Built full-stack features with React.js, JavaScript & Tailwind CSS; contributed to the Infora Academy website launch.
+  🏆 **Best Intern of the Month**
 
 <br/>
 
